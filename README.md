@@ -3,7 +3,7 @@
 
 This repository contains the final project for the **Microprocessor Laboratory (2020)** at **National Dong Hwa University (NDHU)**. The project implements a **Tetris game** using the **Renesas RX231** microcontroller.  
 
-![Tetris Gameplay on RX231](assets/Tetris_game.jpg)  
+![Tetris Gameplay on RX231](assets/Tetris_game.png)  
 
 ## 🎮 Project Overview  
 This project develops a **Tetris game** running on an **RX231 development board**, featuring:  
